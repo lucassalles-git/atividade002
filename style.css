@@ -12,17 +12,23 @@ body {
 main {
   margin-top: 50px;
   margin-left: 50px;
+  height: 90vh;
 }
 main h1 {
   padding-top: 20px;
   padding-bottom: 10px;
+  color: rgb(0, 0, 114);
 }
 main p {
   padding-bottom: 10px;
 }
+main a {
+  color: rgb(0, 0, 0);
+}
 main h2 {
   padding-top: 10px;
   padding-bottom: 10px;
+  color: rgb(0, 0, 114);
 }
 main ol {
   padding-left: 18px;
@@ -33,21 +39,8 @@ main ul {
 }
 
 img {
-  border-radius: 150px;
-  height: 229px;
-  width: 237px;
-}
-
-h1 {
-  color: rgb(0, 0, 114);
-}
-
-a {
-  color: rgb(0, 0, 0);
-}
-
-h2 {
-  color: rgb(0, 0, 114);
+  border-radius: 50%;
+  width: 20%;
 }
 
 footer {
